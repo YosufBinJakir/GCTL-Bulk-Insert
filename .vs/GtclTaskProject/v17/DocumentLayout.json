@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|d:\\gctl practice\\bulkdatainsert\\gctl_task-main\\gtcltaskproject\\views\\employee\\_employeeselectionpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|solutionrelative:gtcltaskproject\\views\\employee\\_employeeselectionpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|d:\\gctl practice\\bulkdatainsert\\gctl_task-main\\gtcltaskproject\\views\\employee\\employeeshift.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|solutionrelative:gtcltaskproject\\views\\employee\\employeeshift.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|d:\\gctl practice\\bulkdatainsert\\gctl_task-main\\gtcltaskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|solutionrelative:gtcltaskproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|d:\\gctl practice\\bulkdatainsert\\gctl_task-main\\gtcltaskproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|solutionrelative:gtcltaskproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|d:\\gctl practice\\bulkdatainsert\\gctl_task-main\\gtcltaskproject\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|solutionrelative:gtcltaskproject\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|d:\\gctl practice\\bulkdatainsert\\gctl_task-main\\gtcltaskproject\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|solutionrelative:gtcltaskproject\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|d:\\gctl practice\\bulkdatainsert\\gctl_task-main\\gtcltaskproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCA41545-9FC2-49C3-B228-D3A84802B2A0}|GtclTaskProject\\GtclTaskProject.csproj|solutionrelative:gtcltaskproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_EmployeeSelectionPartial.cshtml",
+              "DocumentMoniker": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\_EmployeeSelectionPartial.cshtml",
+              "RelativeDocumentMoniker": "GtclTaskProject\\Views\\Employee\\_EmployeeSelectionPartial.cshtml",
+              "ToolTip": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\_EmployeeSelectionPartial.cshtml",
+              "RelativeToolTip": "GtclTaskProject\\Views\\Employee\\_EmployeeSelectionPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:33:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeShift.cshtml",
+              "DocumentMoniker": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\EmployeeShift.cshtml",
+              "RelativeDocumentMoniker": "GtclTaskProject\\Views\\Employee\\EmployeeShift.cshtml",
+              "ToolTip": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\EmployeeShift.cshtml",
+              "RelativeToolTip": "GtclTaskProject\\Views\\Employee\\EmployeeShift.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:12:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GtclTaskProject\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "GtclTaskProject\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:12:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "GtclTaskProject\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "GtclTaskProject\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:06:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GtclTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GtclTaskProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:02:13.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GtclTaskProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GtclTaskProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T00:02:05.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "GtclTaskProject\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\GCTL Practice\\BulkDatainsert\\Gctl_Task-main\\GtclTaskProject\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "GtclTaskProject\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowHgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T23:39:50.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
